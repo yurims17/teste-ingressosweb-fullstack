@@ -31,13 +31,9 @@ O sistema será dividido em **dois repositórios separados**, um para o backend 
 - **Listagem de eventos disponíveis**: O aplicativo deve exibir todos os eventos ativos no banco de dados.
 - **Compra de ingressos**: O sistema deve permitir que usuários comprem ingressos para eventos disponíveis.
 - **Controle de lotação**: Cada evento deve ter um número máximo de ingressos disponíveis. Quando esgotados, o evento não deve ser exibido como disponível para compra.
-- **Gestão de pedidos**: Os usuários devem conseguir visualizar seus ingressos comprados em uma área específica do sistema.
 - **Tela Administrativa**: Deve permitir que administradores:
   - Cadastrem, editem e excluam eventos.
   - Acompanhem a venda de ingressos em tempo real.
-- **Exportação de Relatórios**: O sistema deve permitir exportação de relatórios em **CSV** contendo:
-  - Lista de eventos e número de ingressos vendidos.
-  - Lista de eventos disponíveis e ingressos restantes.
 - **Tela de Login**: Implementar autenticação (login), mas não é necessário recuperação de senha ou cadastro de usuários.
 
 ## Critérios de Avaliação
